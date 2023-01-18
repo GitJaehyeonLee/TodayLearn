@@ -1,0 +1,11 @@
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\005_Enum\005_Enum\bin\Debug\005_Enum.exe.config
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\005_Enum\005_Enum\bin\Debug\005_Enum.exe
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\005_Enum\005_Enum\bin\Debug\005_Enum.pdb
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\005_Enum\005_Enum\obj\Debug\005_Enum.csproj.AssemblyReference.cache
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\005_Enum\005_Enum\obj\Debug\005_Enum.csproj.SuggestedBindingRedirects.cache
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\005_Enum\005_Enum\obj\Debug\_005_Enum.Form1.resources
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\005_Enum\005_Enum\obj\Debug\_005_Enum.Properties.Resources.resources
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\005_Enum\005_Enum\obj\Debug\005_Enum.csproj.GenerateResource.cache
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\005_Enum\005_Enum\obj\Debug\005_Enum.csproj.CoreCompileInputs.cache
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\005_Enum\005_Enum\obj\Debug\005_Enum.exe
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\005_Enum\005_Enum\obj\Debug\005_Enum.pdb
