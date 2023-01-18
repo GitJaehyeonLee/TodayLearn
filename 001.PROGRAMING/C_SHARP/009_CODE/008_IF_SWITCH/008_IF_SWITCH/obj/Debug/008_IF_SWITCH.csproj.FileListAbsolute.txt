@@ -1,0 +1,11 @@
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\008_IF_SWITCH\008_IF_SWITCH\bin\Debug\008_IF_SWITCH.exe.config
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\008_IF_SWITCH\008_IF_SWITCH\bin\Debug\008_IF_SWITCH.exe
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\008_IF_SWITCH\008_IF_SWITCH\bin\Debug\008_IF_SWITCH.pdb
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\008_IF_SWITCH\008_IF_SWITCH\obj\Debug\008_IF_SWITCH.csproj.AssemblyReference.cache
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\008_IF_SWITCH\008_IF_SWITCH\obj\Debug\008_IF_SWITCH.csproj.SuggestedBindingRedirects.cache
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\008_IF_SWITCH\008_IF_SWITCH\obj\Debug\_008_IF_SWITCH.Form1.resources
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\008_IF_SWITCH\008_IF_SWITCH\obj\Debug\_008_IF_SWITCH.Properties.Resources.resources
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\008_IF_SWITCH\008_IF_SWITCH\obj\Debug\008_IF_SWITCH.csproj.GenerateResource.cache
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\008_IF_SWITCH\008_IF_SWITCH\obj\Debug\008_IF_SWITCH.csproj.CoreCompileInputs.cache
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\008_IF_SWITCH\008_IF_SWITCH\obj\Debug\008_IF_SWITCH.exe
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\008_IF_SWITCH\008_IF_SWITCH\obj\Debug\008_IF_SWITCH.pdb
