@@ -1,0 +1,11 @@
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\004_Operator\004_Operator\bin\Debug\004_Operator.exe.config
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\004_Operator\004_Operator\bin\Debug\004_Operator.exe
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\004_Operator\004_Operator\bin\Debug\004_Operator.pdb
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\004_Operator\004_Operator\obj\Debug\004_Operator.csproj.AssemblyReference.cache
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\004_Operator\004_Operator\obj\Debug\004_Operator.csproj.SuggestedBindingRedirects.cache
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\004_Operator\004_Operator\obj\Debug\_004_Operator.Form1.resources
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\004_Operator\004_Operator\obj\Debug\_004_Operator.Properties.Resources.resources
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\004_Operator\004_Operator\obj\Debug\004_Operator.csproj.GenerateResource.cache
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\004_Operator\004_Operator\obj\Debug\004_Operator.csproj.CoreCompileInputs.cache
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\004_Operator\004_Operator\obj\Debug\004_Operator.exe
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\004_Operator\004_Operator\obj\Debug\004_Operator.pdb
