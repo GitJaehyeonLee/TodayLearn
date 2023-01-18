@@ -1,5 +1,13 @@
 ﻿ namespace Helloworld
 {
+
+    enum Edirection
+    {
+        West,
+        East,
+        North,
+        South
+    }
     internal class Program
     {
         // Entry Point 
@@ -8,7 +16,18 @@
         // arguments 
         static void Main(string[] args)
         {
+            Edirection edirection = Edirection.West;
+
+            if (edirection == Edirection.West)
+            {
+                Console.WriteLine("West");
+            }
             Console.WriteLine("Hello, World!");
-        }
+
+            int num3 = int.MaxValue;
+            int result4 = num3 + 1;
+
+            Console.WriteLine($"result4: {result4}");
+        } 
     }
 }

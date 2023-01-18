@@ -1,0 +1,11 @@
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\001_HELLOWORLD\Study_string\Study_string\bin\Debug\Study_string.exe.config
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\001_HELLOWORLD\Study_string\Study_string\bin\Debug\Study_string.exe
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\001_HELLOWORLD\Study_string\Study_string\bin\Debug\Study_string.pdb
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\001_HELLOWORLD\Study_string\Study_string\obj\Debug\Study_string.csproj.AssemblyReference.cache
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\001_HELLOWORLD\Study_string\Study_string\obj\Debug\Study_string.csproj.SuggestedBindingRedirects.cache
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\001_HELLOWORLD\Study_string\Study_string\obj\Debug\Study_string.Form1.resources
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\001_HELLOWORLD\Study_string\Study_string\obj\Debug\Study_string.Properties.Resources.resources
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\001_HELLOWORLD\Study_string\Study_string\obj\Debug\Study_string.csproj.GenerateResource.cache
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\001_HELLOWORLD\Study_string\Study_string\obj\Debug\Study_string.csproj.CoreCompileInputs.cache
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\001_HELLOWORLD\Study_string\Study_string\obj\Debug\Study_string.exe
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\001_HELLOWORLD\Study_string\Study_string\obj\Debug\Study_string.pdb

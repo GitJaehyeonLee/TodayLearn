@@ -1,0 +1,15 @@
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\001_HELLOWORLD\Helloworld\Helloworld\bin\Debug\net6.0\Helloworld.exe
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\001_HELLOWORLD\Helloworld\Helloworld\bin\Debug\net6.0\Helloworld.deps.json
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\001_HELLOWORLD\Helloworld\Helloworld\bin\Debug\net6.0\Helloworld.runtimeconfig.json
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\001_HELLOWORLD\Helloworld\Helloworld\bin\Debug\net6.0\Helloworld.dll
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\001_HELLOWORLD\Helloworld\Helloworld\bin\Debug\net6.0\Helloworld.pdb
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\001_HELLOWORLD\Helloworld\Helloworld\obj\Debug\net6.0\Helloworld.csproj.AssemblyReference.cache
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\001_HELLOWORLD\Helloworld\Helloworld\obj\Debug\net6.0\Helloworld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\001_HELLOWORLD\Helloworld\Helloworld\obj\Debug\net6.0\Helloworld.AssemblyInfoInputs.cache
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\001_HELLOWORLD\Helloworld\Helloworld\obj\Debug\net6.0\Helloworld.AssemblyInfo.cs
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\001_HELLOWORLD\Helloworld\Helloworld\obj\Debug\net6.0\Helloworld.csproj.CoreCompileInputs.cache
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\001_HELLOWORLD\Helloworld\Helloworld\obj\Debug\net6.0\Helloworld.dll
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\001_HELLOWORLD\Helloworld\Helloworld\obj\Debug\net6.0\refint\Helloworld.dll
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\001_HELLOWORLD\Helloworld\Helloworld\obj\Debug\net6.0\Helloworld.pdb
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\001_HELLOWORLD\Helloworld\Helloworld\obj\Debug\net6.0\Helloworld.genruntimeconfig.cache
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\001_HELLOWORLD\Helloworld\Helloworld\obj\Debug\net6.0\ref\Helloworld.dll
