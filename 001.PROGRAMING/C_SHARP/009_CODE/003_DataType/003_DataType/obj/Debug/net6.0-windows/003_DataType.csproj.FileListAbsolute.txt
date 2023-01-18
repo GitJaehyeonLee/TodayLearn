@@ -1,0 +1,17 @@
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\003_DataType\003_DataType\bin\Debug\net6.0-windows\003_DataType.exe
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\003_DataType\003_DataType\bin\Debug\net6.0-windows\003_DataType.deps.json
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\003_DataType\003_DataType\bin\Debug\net6.0-windows\003_DataType.runtimeconfig.json
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\003_DataType\003_DataType\bin\Debug\net6.0-windows\003_DataType.dll
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\003_DataType\003_DataType\bin\Debug\net6.0-windows\003_DataType.pdb
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\003_DataType\003_DataType\obj\Debug\net6.0-windows\003_DataType.csproj.AssemblyReference.cache
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\003_DataType\003_DataType\obj\Debug\net6.0-windows\_003_DataType.Form1.resources
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\003_DataType\003_DataType\obj\Debug\net6.0-windows\003_DataType.csproj.GenerateResource.cache
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\003_DataType\003_DataType\obj\Debug\net6.0-windows\003_DataType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\003_DataType\003_DataType\obj\Debug\net6.0-windows\003_DataType.AssemblyInfoInputs.cache
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\003_DataType\003_DataType\obj\Debug\net6.0-windows\003_DataType.AssemblyInfo.cs
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\003_DataType\003_DataType\obj\Debug\net6.0-windows\003_DataType.csproj.CoreCompileInputs.cache
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\003_DataType\003_DataType\obj\Debug\net6.0-windows\003_DataType.dll
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\003_DataType\003_DataType\obj\Debug\net6.0-windows\refint\003_DataType.dll
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\003_DataType\003_DataType\obj\Debug\net6.0-windows\003_DataType.pdb
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\003_DataType\003_DataType\obj\Debug\net6.0-windows\003_DataType.genruntimeconfig.cache
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\003_DataType\003_DataType\obj\Debug\net6.0-windows\ref\003_DataType.dll
