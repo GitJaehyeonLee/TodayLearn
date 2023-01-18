@@ -1,0 +1,11 @@
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\004_Method\004_Method\bin\Debug\004_Method.exe.config
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\004_Method\004_Method\bin\Debug\004_Method.exe
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\004_Method\004_Method\bin\Debug\004_Method.pdb
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\004_Method\004_Method\obj\Debug\004_Method.csproj.AssemblyReference.cache
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\004_Method\004_Method\obj\Debug\004_Method.csproj.SuggestedBindingRedirects.cache
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\004_Method\004_Method\obj\Debug\_004_Method.Form1.resources
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\004_Method\004_Method\obj\Debug\_004_Method.Properties.Resources.resources
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\004_Method\004_Method\obj\Debug\004_Method.csproj.GenerateResource.cache
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\004_Method\004_Method\obj\Debug\004_Method.csproj.CoreCompileInputs.cache
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\004_Method\004_Method\obj\Debug\004_Method.exe
+C:\Users\kerne\Documents\TodayLearn\001.PROGRAMING\C_SHARP\009_CODE\004_Method\004_Method\obj\Debug\004_Method.pdb
